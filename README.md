@@ -7,6 +7,7 @@ hi guys i'm thxhtrxn (Thanh Tran)
 <p>i using vscode, vim and sublime to code btw.</p>
 <p>for now i'm learing about c++ algorithm because i wanna to be a master in codeforces(maybe impossible to me frfrfr)</p>
 <p>you can chat with me on discord fr: https://discord.com/users/1147483626427138059</p>
+<p>ok my english skill is so bad, i know and i trying to improve it.</p>
 <p>oh, and here are just some github stats that just like placeholders:</p>
 
 
