@@ -15,6 +15,8 @@ hi guys i'm thxhtrxn (Thanh Tran)
 ![my epic github stats frfrfr](https://github-readme-stats.vercel.app/api?username=thxhtrxn&show_icons=true&theme=tokyonight)
 ![my epic top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxhtrxn&size_weight=0.5&count_weight=0.5&langs_count=4&theme=tokyonight)
 
-<p>a project i working on:</p>
+<p>projects i working on:</p>
 
 [![my epic project card](https://github-readme-stats.vercel.app/api/pin/?username=thxhtrxn&repo=gdvnps-website-v5&theme=tokyonight)](https://github.com/thxhtrxn/gdvnps-website-v5)
+[![my epic project card](https://github-readme-stats.vercel.app/api/pin/?username=thxhtrxn&repo=GDVNPSDemonList&theme=tokyonight)](https://github.com/thxhtrxn/GDVNPSDemonList)
+
