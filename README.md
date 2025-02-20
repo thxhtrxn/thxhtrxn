@@ -3,7 +3,6 @@ hi guys i'm thxhtrxn (Thanh Tran)
 <p>i made this repo for no reason (yea, it is too boring brrr).</p>
 <p>i'm just a normal student learn about code around internet.</p>
 <p>as you can see i just a stupid dev trying to do some random projects.</p>
-<p>i'm too busy to make my personal website but i will try to create it in my freetime.</p>
 <p>i using vscode, vim and sublime to code btw.</p>
 <p>for now i'm learing about c++ algorithm because i wanna to be a master in codeforces(maybe impossible to me frfrfr)</p>
 <p>you can chat with me on discord fr: https://discord.com/users/1147483626427138059</p>
